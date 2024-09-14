@@ -28,3 +28,34 @@ A Java-based web application that allows users to log into their accounts and ch
 1. **Clone the Repository:**
    ```bash
    git clone https://github.com/Shivaraj1025/Academy-Drive-Eligibility.git
+   
+2.   **Navigate to the Project Directory:**
+
+	cd Academy-Drive-Eligibility
+
+3. **Set Up the Database:**
+
+	Create a MySQL database named academy_drive.
+	Import the provided SQL scripts to set up necessary tables.
+	Update the database connection details in the web.xml or configuration files as needed.
+	
+4. **Configure the Server:**
+
+	Deploy the project to Apache Tomcat by placing the project folder in the webapps directory or using your IDE’s deployment tools.
+
+5. **Run the Application:**
+
+	Start Apache Tomcat.
+	Open a web browser and navigate to http://localhost:8080/Academy-Drive-Eligibility/ (adjust the URL based on your configuration).
+
+**Usage:**
+
+	Login:
+	Enter your username and password on the login page.
+	Check Eligibility:
+	After logging in, navigate to the eligibility section to view your eligibility status for 	current drives.
+	
+**Contact:**
+	
+	Name: Shivaraj
+	Gmail: shivarajnaikar899@gmail.com	
